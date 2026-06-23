@@ -1,0 +1,1 @@
+/Users/stefc/Projects/stefc/mac-setup/target/release/config/stefc.zsh-theme
